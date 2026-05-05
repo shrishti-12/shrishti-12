@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shrishti Kumari, an Electronics & Communication Engineering undergraduate and aspiring Frontend Developer with a strong foundation in Java and hands-on experience in frontend application development.<br><br>Languages & Core Skills: Python, Java, PowerBI, Excel, NumPy, HTML, CSS, JavaScript, Data Structures & Algorithms, OOP, SQL<br>Frameworks & Libraries: React, Next.js<br>Databases: SQL (MySQL/PostgreSQL – academic & project level)<br>Tools & Platforms: Git, GitHub, VS Code, REST API Integration, Vercel<br>Experience & Projects: Frontend Developer Intern with experience building responsive web applications, API-driven projects, and AI-powered platforms including a Weather Forecast App and an AI Career Coach.
+I am Shrishti Kumari, an Electronics & Communication Engineering undergraduate and aspiring Frontend Developer with a strong foundation in Java and hands-on experience in frontend application development.<br><br>Languages & Core Skills: Python, Java, PowerBI, Excel, NumPy, HTML, CSS, JavaScript, Data Structures & Algorithms, OOP, SQL<br>Frameworks & Libraries: React, Next.js<br>Databases: SQL (MySQL/PostgreSQL – academic & project level)<br>Tools & Platforms: Git, GitHub, VS Code, REST API Integration, Vercel<br>
 
 
 ## 🌐 Socials:
